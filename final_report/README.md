@@ -9,6 +9,8 @@
 
 ## Reproducing the data
 
+The raw data is too big to push to our Github repo so we're including these instructions on how to grab the data.
+
 All data comes from the [FastF1 Python library](https://docs.fastf1.dev/).
 
 ### Setup
